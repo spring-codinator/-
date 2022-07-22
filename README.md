@@ -2,7 +2,8 @@
 
 ## ⚙️ 개발 환경(Development Environment)
 
-|---|---|
+|------|------|
+|------|------|
 | 운영체제 | Windows 10 64bit |
 | 개발도구 | Intellij Ultimate, Gradle |
 | 프레임워크 | Spring Boot 2.7.0, Spring Security(OAuth2.0) |
@@ -10,6 +11,7 @@
 | 데이터베이스 | Maria DB Server |
 | 버전 관리 | Github, Git |
 | 배포 및 운영 | Ubuntu 20.04 LTS, Docker, Github Actions |
+
 
 ## 📝 요구사항 분석(Requirements analysis)
 관리자(Master)
